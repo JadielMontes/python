@@ -1,0 +1,5 @@
+LABORATORIO INTRODUCTORIO: LISTAS Y BUCLES
+1. Abre la guia PDF.
+2. Abre ejercicios en VS Code.
+3. Ejecuta los archivos en orden y completa # TAREA.
+4. No contiene soluciones.
