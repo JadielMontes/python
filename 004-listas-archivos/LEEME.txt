@@ -1,0 +1,8 @@
+LABORATORIO PUENTE DE PYTHON
+
+1. Abre esta carpeta en VS Code.
+2. Ejecuta cada archivo desde la terminal: python ejercicios/01_recorrer_productos.py
+3. Lee el ejemplo y resuelve los comentarios # TAREA.
+4. Los ejercicios 07 y 08 estan diseñados para corregir o crear codigo.
+5. No se modifican archivos del sistema: todas las listas son datos ficticios en memoria.
+6. Este laboratorio prepara el manejo de carpetas y archivos del Laboratorio 3.
